@@ -27,3 +27,7 @@ Las relaciones bidireccionales se sincronizan desde un único método por relaci
 ## Estado de verificación
 
 Compilación con JDK 21 y Java 17 como versión objetivo. El programa de pruebas oficial obtuvo 106 de 106 verificaciones correctas.
+
+## Video demostrativo
+
+[Explicación del sistema y ejecución de las pruebas oficiales](https://youtu.be/i52PyjlnWXk)
