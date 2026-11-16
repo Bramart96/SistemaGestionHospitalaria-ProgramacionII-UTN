@@ -1,0 +1,11 @@
+bin/
+build/
+out/
+target/
+dist/
+*.class
+.idea/
+nbproject/
+build.xml
+manifest.mf
+.vscode/
